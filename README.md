@@ -2,7 +2,7 @@
 ### AI Engineer & Full Stack Developer | Informatics Engineering Graduate
 
 <p align="center">
-  <img src="https://github.com/Andre018-zuliani.png" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" alt="Andre Zuliani Profile">
+  <img src="[https://github.com/Andre018-zuliani.png](https://drive.google.com/file/d/1XBSIoUq2EJxDU9VgA49UNN5QsU2x4grV/view?usp=sharing)" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" alt="Andre Zuliani Profile">
 </p>
 
 <p align="center">
