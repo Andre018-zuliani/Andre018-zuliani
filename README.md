@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=03a9f4&height=200&section=header&text=Andre%20Zuliani&fontSize=70" alt="Banner" />
+  <img src="https://drive.google.com/file/d/1XBSIoUq2EJxDU9VgA49UNN5QsU2x4grV/view?usp=sharing" alt="Banner" />
 </p>
 
 ---
