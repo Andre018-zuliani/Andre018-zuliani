@@ -1,121 +1,57 @@
-<h1 align="center">Hi 👋, I'm Andre Zuliani</h1>
-<h3 align="center">Data Analyst & Full Stack Developer</h3>
+# Hi 👋, I'm Andre Zuliani
+### AI Engineer & Full Stack Developer | Informatics Engineering Graduate
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andre018-zuliani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github.com/Andre018-zuliani.png" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" alt="Andre Zuliani Profile">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=03a9f4&height=200&section=header&text=Andre%20Zuliani&fontSize=70" alt="Banner" />
 </p>
 
 ---
 
 ### 🌟 About Me
-
-My passion for technology 🌐 focuses on leveraging **data analysis** and **full stack development**
-to create impactful and scalable solutions.
-
-My journey began with curiosity about how technology shapes our lives, leading me to pursue
-software engineering, analytics, and cloud computing.  
-I enjoy exploring diverse tech stacks 💻 and am committed to continuous learning and innovation
-to tackle real world challenges 🛠️.
+[cite_start]I am a fresh graduate in **Informatics Engineering** from **Institut Teknologi PLN** (GPA 3.78/4.00). [cite_start]I am deeply passionate about **AI, Data, and Digital Transformation**, with a strong background in building scalable web solutions and data-driven insights.
 
 ---
 
-### 🔭 What I'm Currently Doing
-- Data Analysis and Full Stack Development
-- Building RESTful APIs and web applications
-- Exploring AI, Data, and Cloud technologies
-
-### 🌱 Currently Learning
-- Data Engineering and Analytics
-- Cloud Platforms and AI Services
-- Modern Backend and Frontend Frameworks
+### 🚀 Experience & Highlights
+* [cite_start]**Virtual Reality Intern @ Laboratorium VR**: Developed a web-based virtual tour using PHP, HTML, CSS, and Bootstrap, receiving 90% positive supervisor feedback.
+* [cite_start]**Full Stack Developer @ DBS Coding Camp x Dicoding**: Built the **Sila-language** project using React.js, Node.js, and FastAPI, hosted on Vercel.
+* [cite_start]**Top 24 Digital Talent**: Selected from over 9,000 participants in a national-scale digital talent selection (2025).
+* [cite_start]**Leadership**: Led the **Youth Generation Program**, achieving a 95% success rate in helping participants secure university scholarships.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Certifications
 
-#### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,sql" />
-</p>
+#### 🧠 AI, Data & Cloud
+* [cite_start]**Cloud & DevOps**: AWS (Certified Cloud Practitioner), Alibaba Cloud Engineering Associate, Docker.
+* [cite_start]**AI Specialization**: Microsoft Certified: Azure AI Fundamentals (AI-900) & Azure AI Engineer Associate (AI-102).
+* [cite_start]**Data Tools**: Python, SQL (MySQL, PostgreSQL), AWS QuickSight.
 
-#### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-#### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-</p>
-
-#### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-#### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-</p>
+#### 💻 Software Engineering
+* [cite_start]**Languages**: Go (Golang), Python, PHP, JavaScript, Kotlin.
+* [cite_start]**Frameworks**: React.js, Node.js, FastAPI, Bootstrap.
+* [cite_start]**Networking**: Mikrotik Certified Network Associate (MTCNA).
 
 ---
 
-### 📌 Projects Highlights
-- Virtual Reality Laboratory Website and Virtual Tour  
-- Web Applications using PHP, JavaScript, and Bootstrap  
-- Full Stack Projects using React, Node.js, FastAPI, and RESTful APIs  
-
-🔗 **Portfolio & Projects**  
-https://github.com/Andre018-zuliani
+### 🏆 Featured Projects
+* [cite_start]**Sila (Sign Language)**: A communication bridge project built with React.js.
+* [cite_start]**Hepatitis Classification**: Machine learning model built with Python to predict patient outcomes (82% Accuracy).
+* [cite_start]**VR Lab Website**: Multimedia-based platform for research and development access.
+* **Inventory & Ticket Systems**: Backend development projects using **Go (Golang)**.
 
 ---
 
-### 🏆 GitHub Trophies
+### 📫 Let's Connect!
+* [cite_start]📧 **Email**: [Andresyarief7@gmail.com](mailto:Andresyarief7@gmail.com) 
+* [cite_start]💼 **LinkedIn**: [linkedin.com/in/andre-zuliani](https://www.linkedin.com/in/andre-zuliani-6651541b8/) 
+* [cite_start]🧑‍💻 **GitHub**: [github.com/Andre018-zuliani](https://github.com/Andre018-zuliani) 
+
+---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andre018-zuliani&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre018-zuliani&theme=tokyonight" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre018-zuliani&theme=tokyo-night" />
-</p>
-
----
-
-### 📜 Certifications
-- Microsoft AI 900 Azure AI Fundamentals
-- Microsoft AI 102 Azure AI Engineer Associate
-- Microsoft PL 900 Power Platform Fundamentals
-- Alibaba Cloud Engineering Associate
-- Mikrotik Certified Network Associate
-- BNSP Junior Graphic Design Certification
-
----
-
-### 📫 Contact Me
-- 📧 Email: Andresyarief7@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/andre-zuliani-6651541b8/  
-- 🧑‍💻 GitHub: https://github.com/Andre018-zuliani  
-
----
-
-⚡ **Fun Fact**  
-I enjoy mentoring, learning new technologies, and turning complex problems into simple solutions.
