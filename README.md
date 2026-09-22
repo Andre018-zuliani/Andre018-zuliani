@@ -1,82 +1,312 @@
-# Hi 👋, I'm Andre Zuliani
+# 👋 Hey, I'm Andre Zuliani
 
-### 🧪 Quality Assurance Engineer | 💻 Full Stack Developer | ☁️ Cloud & AI Enthusiast
+<div align="center">
 
-Informatics Engineering Graduate (GPA 3.78/4.00, Cum Laude)[cite: 1] with hands-on experience in **Quality Assurance** (Manual, Cypress, Playwright, K6 performance testing)[cite: 1], **Full Stack Web Development** (React, Go, FastAPI, PHP, JavaScript)[cite: 1], and **IT Project Management** (Agile/Scrum, SIT/UAT coordination)[cite: 1].
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Quality+Assurance+Engineer;QA+Automation+%7C+Cypress+%7C+Playwright;Performance+Testing+%7C+K6;Full+Stack+Developer;Cloud+%26+AI+Enthusiast" />
 
----
+<br>
 
-## 🌟 About Me
-- 🎓 **Education:** Bachelor of Informatics Engineering from **Institut Teknologi PLN** (Cum Laude, GPA 3.78/4.00)[cite: 1].
-- 🧪 **QA & Test Automation:** Skilled in end-to-end testing with **Cypress** & **Playwright** (Page Object Model architecture) and API performance/load testing with **K6**[cite: 1].
-- 💼 **Project Management & QA:** Managed Scrum sprints, monitored strategic IT projects, and coordinated SIT/UAT testing during internship at **PT Pegadaian**[cite: 1].
-- 🏆 **Achievement:** Selected as **Top 24 Digital Talent** in the 9th IndonesiaNEXT program out of 9,962 participants nationwide[cite: 1].
-- 🚀 **Open for Opportunities:** Open to roles in **Quality Assurance / QA Automation**, **Full Stack Development**, **Data Engineering**, and **Cloud Engineering**[cite: 1].
+<img src="https://komarev.com/ghpvc/?username=Andre018-zuliani&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧪 About Me
 
-**Quality Assurance & Testing**
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```yaml
+name: Andre Zuliani
+role: Quality Assurance Engineer
+education: Informatics Engineering
+gpa: 3.78 / 4.00
+status: Open to Opportunities
 
-**Programming Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+focus:
+  - Quality Assurance
+  - Test Automation
+  - API Testing
+  - Performance Testing
+  - Full Stack Development
 
-**Cloud, DevOps & Methodologies**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+testing:
+  - Manual Testing
+  - Cypress
+  - Playwright
+  - K6
+  - Postman
+  - SIT / UAT
 
----
+development:
+  - JavaScript
+  - React
+  - Go
+  - FastAPI
+  - PHP
 
-## 📌 Highlighted Projects & Training
-- 🧪 **E2E Automation Testing Suite:** Converted manual test cases into 13 automated E2E test scripts in Cypress & Playwright using Page Object Model (POM) design pattern[cite: 1].
-- ⚡ **API Performance Testing (K6):** Executed Load (100 VU), Stress (500 VU), and Spike (500 VU) tests on public APIs with root-cause analysis and mitigation strategies[cite: 1].
-- 📊 **Kickstarter Project Analysis (Capstone):** Led a 9-person team analyzing 14.7k+ projects to improve Canadian project success rates[cite: 1].
-- 💼 **PT Pegadaian (IT PM Intern):** Monitored REST Core and AWS Deployment milestones while managing SIT/UAT documentation across 6 Scrum sprints[cite: 1].
-
----
-
-## 📜 Certifications & Credentials
-- 🔵 **Microsoft Certified:** Azure AI Engineer Associate (AI-102)[cite: 1]
-- 🔵 **Microsoft Certified:** Azure AI Fundamentals (AI-900)[cite: 1]
-- 🔵 **Microsoft Certified:** Power Platform Fundamentals (PL-900)[cite: 1]
-- 🇮🇩 **BNSP Certificate:** Competence in Junior Web Developer[cite: 1]
-- 🌐 **MikroTik Certified:** Network Associate (MTCNA)[cite: 1]
-- ☁️ **Alibaba Cloud:** Engineering Associate[cite: 1]
-- 🎓 **RevoU x Kampus Merdeka:** AWS Cloud Data Engineer & Gen AI Track (Final Grade: 98/100)[cite: 1]
+cloud:
+  - AWS
+  - Microsoft Azure
+  - Alibaba Cloud
+```
 
 ---
 
-## 📊 GitHub Analytics & Stats
+# 🧪 QA Engineer Dashboard
 
-[![Andre's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Andre018-zuliani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+|   🧪 Testing   | ⚡ Automation | 📊 Performance | 💻 Development |
+| :------------: | :----------: | :------------: | :------------: |
+| Manual Testing |    Cypress   |       K6       |      React     |
+|   Test Cases   |  Playwright  |  Load Testing  |       Go       |
+|  Bug Reporting |      POM     | Stress Testing |     FastAPI    |
+|    SIT / UAT   |  E2E Testing |  Spike Testing |       PHP      |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre018-zuliani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre018-zuliani&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre018-zuliani&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andre018-zuliani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
+
+</div>
+
+---
+
+# 🧪 QA Testing Journey
+
+### 🔐 Manual Testing
+
+```text
+Test Case Design
+       ↓
+Test Execution
+       ↓
+Expected vs Actual
+       ↓
+Bug Identification
+       ↓
+Severity Classification
+       ↓
+Test Report
+```
+
+### 🤖 Automation Testing
+
+```text
+Manual Test Cases
+       ↓
+       Cypress
+       +
+    Playwright
+       ↓
+   Page Object
+     Model
+       ↓
+  E2E Automation
+```
+
+### ⚡ Performance Testing
+
+```text
+        K6
+         │
+ ┌───────┼────────┐
+ ↓       ↓        ↓
+Load   Stress    Spike
+100VU  500VU    500VU
+ │       │        │
+ └───────┼────────┘
+         ↓
+   Analyze Metrics
+         ↓
+ Root Cause Analysis
+         ↓
+Remediation Strategy
+```
+
+---
+
+# 🚀 Featured Projects
+
+### 🧪 E2E Automation Testing
+
+**Cypress + Playwright + POM**
+
+* 13 automated E2E test scenarios
+* Login & authentication
+* Product sorting
+* Shopping cart
+* Checkout flow
+* Page Object Model
+* Auto-waiting & retry assertions
+
+---
+
+### ⚡ K6 Performance Testing
+
+**Load + Stress + Spike Testing**
+
+```text
+Normal Load
+100 VU
+   ↓
+p95 ≈ 185ms
+0% errors
+
+Stress
+500 VU
+   ↓
+API degradation detected
+
+Spike
+500 VU instantly
+   ↓
+Error rate up to 12.3%
+p95 up to 2,150ms
+```
+
+Potential remediation:
+
+`Rate Limiting` → `Caching` → `Autoscaling`
+
+---
+
+### 📊 Kickstarter Data Analysis
+
+**RevoU x Kampus Merdeka**
+
+```text
+14,752 Projects
+       ↓
+1.2M+ Backers
+       ↓
+Data Cleaning
+       ↓
+Exploratory Analysis
+       ↓
+Visualization
+       ↓
+Business Recommendation
+```
+
+👥 Team Leader — 9 members
+
+---
+
+### 💼 IT Project Management
+
+**PT Pegadaian**
+
+```text
+Inception
+   ↓
+UI/UX
+   ↓
+Development
+   ↓
+SIT
+   ↓
+UAT
+   ↓
+Deployment
+   ↓
+Transition
+```
+
+Worked with Scrum across **6 sprints** and coordinated **35 stakeholders**.
+
+---
+
+# 🛠️ Tech Stack
+
+### 🧪 Quality Assurance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&theme=tokyonight" alt="Andre's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre018-zuliani&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+<img src="https://skillicons.dev/icons?i=cypress,playwright,postman,k6" />
+
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre018-zuliani&theme=tokyonight)](https://github.com/ashutosh0071/github-readme-activity-graph)
+### 💻 Development
 
-### 🐍 Contribution Snake
-![Snake Animation](https://github.com/Andre018-zuliani/Andre018-zuliani/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,go,fastapi,php,html,css" />
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker" />
+
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- 📧 **Email:** [Andresyarief7@gmail.com](mailto:Andresyarief7@gmail.com)[cite: 1]
-- 💼 **LinkedIn:** [linkedin.com/in/andre-zuliani](https://www.linkedin.com/in/andre-zuliani-6651541b8/)[cite: 1]
-- 🧑‍💻 **GitHub:** [github.com/Andre018-zuliani](https://github.com/Andre018-zuliani)[cite: 1]
+# ☁️ Certifications
+
+🏅 Microsoft Azure AI Engineer Associate — AI-102
+🏅 Microsoft Azure AI Fundamentals — AI-900
+🏅 Microsoft Power Platform Fundamentals — PL-900
+🏅 BNSP Junior Web Developer
+🏅 MikroTik Certified Network Associate — MTCNA
+🏅 Alibaba Cloud Engineering Associate
+🏅 AWS Cloud Data Engineer & Gen AI — Final Grade **98/100**
+
+---
+
+# 🏆 Achievement
+
+<div align="center">
+
+### 🇮🇩 IndonesiaNEXT #9
+
+<img src="https://img.shields.io/badge/TOP%2024-Digital%20Talent-blue?style=for-the-badge&logo=star" />
+
+<br><br>
+
+Selected as **Top 24 Digital Talent** from a national pool of **9,962 participants**.
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<
