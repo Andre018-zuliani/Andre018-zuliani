@@ -1,187 +1,82 @@
-<h1 align="center">Hi 👋, I'm Andre Zuliani</h1>
-<h3 align="center">Data Analyst & Full Stack Developer</h3>
+# Hi 👋, I'm Andre Zuliani
+
+### 🧪 Quality Assurance Engineer | 💻 Full Stack Developer | ☁️ Cloud & AI Enthusiast
+
+Informatics Engineering Graduate (GPA 3.78/4.00, Cum Laude)[cite: 1] with hands-on experience in **Quality Assurance** (Manual, Cypress, Playwright, K6 performance testing)[cite: 1], **Full Stack Web Development** (React, Go, FastAPI, PHP, JavaScript)[cite: 1], and **IT Project Management** (Agile/Scrum, SIT/UAT coordination)[cite: 1].
+
+---
+
+## 🌟 About Me
+- 🎓 **Education:** Bachelor of Informatics Engineering from **Institut Teknologi PLN** (Cum Laude, GPA 3.78/4.00)[cite: 1].
+- 🧪 **QA & Test Automation:** Skilled in end-to-end testing with **Cypress** & **Playwright** (Page Object Model architecture) and API performance/load testing with **K6**[cite: 1].
+- 💼 **Project Management & QA:** Managed Scrum sprints, monitored strategic IT projects, and coordinated SIT/UAT testing during internship at **PT Pegadaian**[cite: 1].
+- 🏆 **Achievement:** Selected as **Top 24 Digital Talent** in the 9th IndonesiaNEXT program out of 9,962 participants nationwide[cite: 1].
+- 🚀 **Open for Opportunities:** Open to roles in **Quality Assurance / QA Automation**, **Full Stack Development**, **Data Engineering**, and **Cloud Engineering**[cite: 1].
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Quality Assurance & Testing**
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Programming Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Cloud, DevOps & Methodologies**
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📌 Highlighted Projects & Training
+- 🧪 **E2E Automation Testing Suite:** Converted manual test cases into 13 automated E2E test scripts in Cypress & Playwright using Page Object Model (POM) design pattern[cite: 1].
+- ⚡ **API Performance Testing (K6):** Executed Load (100 VU), Stress (500 VU), and Spike (500 VU) tests on public APIs with root-cause analysis and mitigation strategies[cite: 1].
+- 📊 **Kickstarter Project Analysis (Capstone):** Led a 9-person team analyzing 14.7k+ projects to improve Canadian project success rates[cite: 1].
+- 💼 **PT Pegadaian (IT PM Intern):** Monitored REST Core and AWS Deployment milestones while managing SIT/UAT documentation across 6 Scrum sprints[cite: 1].
+
+---
+
+## 📜 Certifications & Credentials
+- 🔵 **Microsoft Certified:** Azure AI Engineer Associate (AI-102)[cite: 1]
+- 🔵 **Microsoft Certified:** Azure AI Fundamentals (AI-900)[cite: 1]
+- 🔵 **Microsoft Certified:** Power Platform Fundamentals (PL-900)[cite: 1]
+- 🇮🇩 **BNSP Certificate:** Competence in Junior Web Developer[cite: 1]
+- 🌐 **MikroTik Certified:** Network Associate (MTCNA)[cite: 1]
+- ☁️ **Alibaba Cloud:** Engineering Associate[cite: 1]
+- 🎓 **RevoU x Kampus Merdeka:** AWS Cloud Data Engineer & Gen AI Track (Final Grade: 98/100)[cite: 1]
+
+---
+
+## 📊 GitHub Analytics & Stats
+
+[![Andre's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Andre018-zuliani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst;Full+Stack+Developer;AI+and+Cloud+Enthusiast;Open+to+Opportunities" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&theme=tokyonight" alt="Andre's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre018-zuliani&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andre018-zuliani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andre-zuliani-6651541b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andre_Zuliani-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:Andresyarief7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/Andre018-zuliani">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-### 🌟 About Me
-
-My passion for technology 🌐 focuses on leveraging **data analysis** and **full stack development**
-to create impactful and scalable solutions.
-
-My journey began with curiosity about how technology shapes our lives, leading me to pursue
-software engineering, analytics, and cloud computing.  
-I enjoy exploring diverse tech stacks 💻 and am committed to continuous learning and innovation
-to tackle real world challenges 🛠️.
-
----
-
-### 💼 Why Hire Me
-
-- Strong analytical thinking and problem solving skills  
-- Hands on experience in full stack web development  
-- Passionate about data, AI, and cloud technologies  
-- Fast learner with strong commitment and work ethic  
-- Comfortable working independently or in a team  
-
----
-
-### 🔭 What I'm Currently Doing
-- Data Analysis and Full Stack Development
-- Building RESTful APIs and web applications
-- Exploring AI, Data, and Cloud technologies
-
-### 🌱 Currently Learning
-- Data Engineering and Analytics
-- Cloud Platforms and AI Services
-- Modern Backend and Frontend Frameworks
-
----
-
-### 🛠️ Languages and Tools
-
-#### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,sql" />
-</p>
-
-#### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-#### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-</p>
-
-#### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-#### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-</p>
-
----
-
-### 🎯 Focus Areas
-
-<table align="center">
-<tr>
-<td align="center"><b>📊 Data</b><br/>Analytics<br/>Engineering</td>
-<td align="center"><b>💻 Development</b><br/>Full Stack<br/>APIs</td>
-<td align="center"><b>☁ Cloud</b><br/>AI Services<br/>DevOps</td>
-</tr>
-</table>
-
----
-
-### 📌 Projects Highlights
-- Virtual Reality Laboratory Website and Virtual Tour  
-- Web Applications using PHP, JavaScript, and Bootstrap  
-- Full Stack Projects using React, Node.js, FastAPI, and RESTful APIs  
-
-🔗 **Portfolio & Projects**  
-https://github.com/Andre018-zuliani
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andre018-zuliani&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre018-zuliani&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre018-zuliani&theme=tokyonight" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre018-zuliani&theme=tokyo-night" />
-</p>
-
----
-
-### 🧭 Learning Roadmap
-- ✔ Web Development Fundamentals
-- ✔ Full Stack Projects
-- 🔄 Data Engineering and Analytics
-- 🔄 Cloud Architecture
-- 🎯 AI Driven Applications
-
----
-
-### 📜 Certifications
-- Microsoft AI 900 Azure AI Fundamentals
-- Microsoft AI 102 Azure AI Engineer Associate
-- Microsoft PL 900 Power Platform Fundamentals
-- Alibaba Cloud Engineering Associate
-- Mikrotik Certified Network Associate
-- BNSP Junior Graphic Design Certification
-
----
-
-### 🚀 Open for Opportunities
-
-I am currently open to full time roles, internships, and collaborations in:
-- Data Analyst
-- Data Engineer
-- Cloud Engineer
-- Full Stack Developer
-
-If you are a recruiter or hiring manager looking for a motivated fresh graduate with strong technical fundamentals, feel free to reach out.
-
-📩 Let’s connect and build impactful solutions together.
-
----
-
-### 📫 Contact Me
-- 📧 Email: Andresyarief7@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/andre-zuliani-6651541b8/  
-- 🧑‍💻 GitHub: https://github.com/Andre018-zuliani  
-
----
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre018-zuliani&theme=tokyonight)](https://github.com/ashutosh0071/github-readme-activity-graph)
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Andre018-zuliani/Andre018-zuliani/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Andre018-zuliani/Andre018-zuliani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-⚡ **Fun Fact**  
-I enjoy mentoring, learning new technologies, and turning complex problems into simple solutions.
+## 📫 Let's Connect!
+- 📧 **Email:** [Andresyarief7@gmail.com](mailto:Andresyarief7@gmail.com)[cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/andre-zuliani](https://www.linkedin.com/in/andre-zuliani-6651541b8/)[cite: 1]
+- 🧑‍💻 **GitHub:** [github.com/Andre018-zuliani](https://github.com/Andre018-zuliani)[cite: 1]
